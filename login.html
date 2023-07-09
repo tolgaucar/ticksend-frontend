@@ -26,7 +26,39 @@
 						Sign up
 					</div>
 				</div>
+				<!-- Mobile menu button -->
+				<div class="md:hidden flex items-center relative z-2">
+					<button class="outline-none mobile-menu-button">
+						<i class="fas fa-bars text-2xl"></i>
+					</button>
+				</div>
 			</nav>
+			<!-- Mobile menu -->
+			<div class="hidden mobile-menu mt-8">
+				<ul class="">
+					<li class="active">
+						<a
+							href="index.html"
+							class="block text-gray-900 text-sm px-2 py-4 text-white bg-white font-semibold"
+							>Home</a
+						>
+					</li>
+					<li>
+						<a
+							href="#services"
+							class="block text-sm px-2 py-4 hover:bg-black hover:text-white transition duration-300"
+							>Login</a
+						>
+					</li>
+					<li>
+						<a
+							href="#about"
+							class="block text-sm px-2 py-4 hover:bg-black hover:text-white transition duration-300"
+							>Sign up</a
+						>
+					</li>
+				</ul>
+			</div>
 		</div>
 	</header>
 	<body class="bg-slate-100">
@@ -83,6 +115,7 @@
 			</div>
 		</section>
 	</body>
+	<script src="dist/toggle.js"></script>
 	<script
 		src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/fontawesome.min.js"
 		integrity="sha512-c41hNYfKMuxafVVmh5X3N/8DiGFFAV/tU2oeNk+upk/dfDAdcbx5FrjFOkFhe4MOLaKlujjkyR4Yn7vImrXjzQ=="
