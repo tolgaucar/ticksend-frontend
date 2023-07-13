@@ -4,7 +4,7 @@
 
 Ticksend Frontend is an open-source customer support software package designed to provide a visually appealing and user-friendly landing page for your customer support platform. It is built using HTML, CSS, and the Tailwind CSS framework. With Ticksend Frontend, you can quickly set up an attractive landing page for your customer support software.
 
-https://github.com/tolgaucar/ticksend-frontend/assets/53059811/b0dede86-dbf3-48d0-a5b4-6bed8a8736d6
+![tolgaucar-github-io-ticksend-frontend-](https://github.com/tolgaucar/ticksend-frontend/assets/53059811/b7e5f5dc-f5ff-4329-ac36-856f5fa889e6)
 
 ## Features
 
